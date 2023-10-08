@@ -1,0 +1,23 @@
+display property
+
+display inline /inline-block/none
+
+.inline 
+span button a tag
+
+.block
+div 
+:it width 1100
+
+visiblity:hidden
+
+
+alpha channel
+
+opacity(0-1)
+color: rgba(red green blue alpha)
+
+
+units in css
+relative :%,em,rem;
+absolute:px,cm,mm,
